@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter Development
 - 🌱 I’m currently learning DSA and Advance Flutter
 - 🐱‍👤 I’m looking to collaborate on Cross Platform Development 
-- 📫 How to reach me : rp331563@gmail.com and 9016478245 📞
+- 📫 How to reach me : rohanparmar1162@gmail.com and 9016478245 📞
 
 <!---
 RohanParmar1134/RohanParmar1134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
