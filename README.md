@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RohanParmar1134
-- 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning DSA and Advance Flutter
+- 👋 Hi, I’m Rohan
+- 👀 I’m interested in MERN and Flutter Development
+- 🌱 I’m currently learning Advance Flutter and React.js
 - 🐱‍👤 I’m looking to collaborate on Cross Platform Development 
 - 📫 How to reach me : rohanparmar1162@gmail.com and 9016478245 📞
 
